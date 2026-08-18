@@ -1,2 +1,3 @@
 ghes_org,ghes_repo,repo_url,repo_size_MB,github_org,github_repo,gh_repo_visibility,reviewer
-ghes-factory-demo,calotracker,https://antgrutta-07mubd.ghe-test.com/ghes-factory-demo/calotracker,2.02,ADO-migration-test,calotracker,private,Mahesh-Biradar
+ghes-factory-demo,calotracker,https://antgrutta-07mubd.ghe-test.com/ghes-factory-demo/calotracker,2.02,ADO-migration-test,calotrackerghes,private,Mahesh-Biradar
+ghes-factory-demo,my_app_2,https://antgrutta-07mubd.ghe-test.com/ghes-factory-demo/my_app_2,2.02,ADO-migration-test,my_app_2,private,Mahesh-Biradar
