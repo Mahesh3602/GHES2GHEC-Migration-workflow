@@ -1,2 +1,2 @@
 ghes_org,ghes_repo,repo_url,repo_size_MB,github_org,github_repo,gh_repo_visibility,reviewer
-ghes-factory-demo,my_app_2,https://antgrutta-07mubd.ghe-test.com/ghes-factory-demo/my_app_2,2.02,ghes-migration-test,my_app_24,private,Mahesh-Biradar
+ghes-factory-demo,my_app_2,https://antgrutta-07mubd.ghe-test.com/ghes-factory-demo/my_app_2,2.02,cmf-factory,my_app_24,private,Mahesh-Biradar
